@@ -1,6 +1,8 @@
+/*
 make sure to divide your html page properly using <div> tags with appropriate ids and classes
 lets call all of the things to be styled as elements
 elements could be built in tags like a, h1, p ... or things such as divs with assigned ids and classes
+*/
 
 tag {
 variable1: value1;
